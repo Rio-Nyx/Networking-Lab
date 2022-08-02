@@ -1,0 +1,11 @@
+CSL 332 NETWORKING LAB
+CYCLE 2
+I. a) Implement Stop-and-Wait ARQ flow control protocol. 
+   b) Implement Go-Back--N ARQ flow control protocol. 
+   c) Implement Selective Repeat ARQ flow control protocol. 
+II. Implement the Distance Vector Routing algorithm.
+III. Implement Link State Routing algorithm.
+IV. Implement Simple Mail Transfer Protocol. 
+V. Implement File Transfer Protocol.
+VI. Develop a concurrent file server which will provide the file requested by a client if it exists. If not, the server sends appropriate message to the client. Server should also send its process ID (PID) to clients for display along with the file or the message. 
+VII. Implement leaky bucket algorithm for congestion control. 
